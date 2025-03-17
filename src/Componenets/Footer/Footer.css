@@ -1,0 +1,36 @@
+/* Footer */
+footer hr {
+    color: #575B62;
+    margin-top: 28px;
+}
+
+.footer_list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1422px;
+    height: 81px;
+    color: #E1B168;
+}
+
+.footer_list_one,
+.footer_list_two {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.footer_list_one {
+    margin-left: -415px;
+}
+
+.footer_list_two {
+    margin-right: -353px;
+}
+
+.footer_list_one li:first-child,
+.footer_list_one li:nth-last-child(2) {
+    color: #FFFFFF;
+}

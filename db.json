@@ -1,0 +1,150 @@
+{
+  "CartProducts": [
+    {
+      "id": "13",
+      "title": "Fresh Salmon",
+      "description": "Beat the health blues with our Super Immune Blue Juice Recipe.",
+      "price": "5",
+      "src": "https://chishi.ir/wp-content/uploads/2023/08/yakh-dar-behesht.jpeg"
+    },
+    {
+      "id": "10",
+      "title": "Lemon Meringue Pie",
+      "decription": "Frozen pie crust, meringue, lemon",
+      "price": "15",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJFW1mlh6RhvfOvr3HdwLZHdb1MAd8cpmtw&s"
+    },
+    {
+      "id": "12",
+      "title": "Hotdog",
+      "description": "Grilled sausage served in the slit of a partially sliced bun.",
+      "price": "10",
+      "src": "https://www.gonnawantseconds.com/wp-content/uploads/2021/08/Hot-Dog-Chili-1.jpg"
+    }
+  ],
+  "MenuFood": [
+    {
+      "id": "1",
+      "title": "Raw Scallops from Erquy",
+      "decription": "Shuck the scallop to that used for oysters",
+      "price": "40",
+      "src": "https://dl.psd-eps.com/uploads/2019/10/23_5300x3600_4m.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Spring Roll",
+      "decription": "Add oil to a hot pan spring onion whites",
+      "price": "20",
+      "src": "https://www.elmundoeats.com/wp-content/uploads/2024/02/Crispy-spring-rolls.jpg"
+    },
+    {
+      "id": "3",
+      "title": "French Onion Soup",
+      "decription": "Wheat flour, apple cider vinegar, bread",
+      "price": "25",
+      "src": "https://www.southernliving.com/thmb/1NcAJmyqMvFa6YIP1bu4l6Okpq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Million_Dollar_Soup_012-d15952c1533c426b98686010250f231c.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Tomato Bruschetta",
+      "decription": "Bread, olive oil, garlic, black pepper",
+      "price": "30",
+      "src": "https://www.stephiecooks.com/wp-content/uploads/2014/08/tomato-bruschetta-on-platter-hero.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Grilled Salmon with Dill Sauce",
+      "decription": "Brown sugar, salmon fillet, Dijon mustard",
+      "price": "40",
+      "src": "https://cookaifood.com/media/cache/thumb_600/bundles/project/images/recipes/2250_1_1703256451.png"
+    },
+    {
+      "id": "6",
+      "title": "Roast Beef with Vegetable",
+      "decription": "Green beans, rib eye, olive oil, beef",
+      "price": "20",
+      "src": "https://media.blueapron.com/culinary/recipe/684/square_image/68e741e0cc307e70737bb2187c700359.jpg?format=pjpg&quality=80&width=1300"
+    },
+    {
+      "id": "7",
+      "title": "Marrkesh Vegetetarian Curruy",
+      "decription": "Sweet potato, eggplant, garbanzo bean",
+      "price": "25",
+      "src": "https://www.allrecipes.com/thmb/KIVkjZumOk1eI5kZxvYR21eQ1RU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9235591-marrakesh-vegetable-curry-Colleen-Seal-1x1-1-63a7a588dcde49d6954f2de56d0f0383.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Spicy Vegan Potato Curry",
+      "decription": "Coconut milk, beans, potatoes, curry powder",
+      "price": "35",
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbcgoodfood.com%2Frecipes%2Fcollection%2Fpotato-curry-recipes&psig=AOvVaw2CeMjqDCAayWMmKrzichVP&ust=1742316415507000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjbz83IkYwDFQAAAAAdAAAAABAh"
+    },
+    {
+      "id": "9",
+      "title": "Apple Pie with Cream",
+      "decription": "Whipping cream, egg white, cinnamon",
+      "price": "15",
+      "src": "https://thecozyplum.com/wp-content/uploads/2022/09/1x1-apple-butter-pie-1.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Lemon Meringue Pie",
+      "decription": "Frozen pie crust, meringue, lemon",
+      "price": "15",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJFW1mlh6RhvfOvr3HdwLZHdb1MAd8cpmtw&s"
+    }
+  ],
+  "PopularDishes": [
+    {
+      "id": "11",
+      "title": "Chicken Manjoori",
+      "description": "Dish relished by all age groups as a starter dish at parties.",
+      "price": "15",
+      "src": "https://sinfullyspicy.com/wp-content/uploads/2020/12/8-2.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Hotdog",
+      "description": "Grilled sausage served in the slit of a partially sliced bun.",
+      "price": "10",
+      "src": "https://www.gonnawantseconds.com/wp-content/uploads/2021/08/Hot-Dog-Chili-1.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Fresh Salmon",
+      "description": "Beat the health blues with our Super Immune Blue Juice Recipe.",
+      "price": "5",
+      "src": "https://chishi.ir/wp-content/uploads/2023/08/yakh-dar-behesht.jpeg"
+    },
+    {
+      "id": "14",
+      "title": "Veg Burger",
+      "description": "Burgers may be made from ingredients like beans.",
+      "price": "10",
+      "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fso%2Fburger-png.html&psig=AOvVaw0vwjdLVZb9Oric7VdgJ0tM&ust=1742316918036000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjBm7zKkYwDFQAAAAAdAAAAABAw"
+    }
+  ],
+  "SpecialDishes": [
+    {
+      "id": "15",
+      "src": "https://www.bettycrocker.co.uk/wp-content/uploads/2023/07/banana-cake-hero-original-500x460.jpg",
+      "description": "Every time you perfectly dine with us, it should happy for great inspired food in an environment designed with individual touches unique to the local area.",
+      "title": "Cake Chocklate",
+      "price": "52"
+    },
+    {
+      "id": "16",
+      "src": "https://liliebakery.fr/wp-content/uploads/2011/04/Gateau-du-diable-devils-food-cake-Lilie-Bakery-2-500x500.jpg",
+      "description": "Every time you perfectly dine with us, it should happy for great inspired food in an environment designed with individual touches unique to the local area.",
+      "title": "Cake Chocklate",
+      "price": "23"
+    },
+    {
+      "id": "17",
+      "src": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-02-carrot-cake%2Fcarrot-cake-249_1",
+      "description": "Every time you perfectly dine with us, it should happy for great inspired food in an environment designed with individual touches unique to the local area.",
+      "title": "Cake Chocklate",
+      "price": "45"
+    }
+  ]
+}

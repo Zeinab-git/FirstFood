@@ -1,0 +1,152 @@
+/* Food Menu */
+.food {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 47px;
+    margin-bottom: 62px;
+    border: 2px solid;
+    width: 430px;
+    height: 258px;
+    padding: 52px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+}
+
+
+.food img {
+    width: 150px;
+    height: 150px;
+    border-radius: 23px;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    -ms-border-radius: 23px;
+    -o-border-radius: 23px;
+}
+
+.food_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    gap: 6px;
+}
+
+.food_text p {
+    color: #958585;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.food_text span {
+    font-weight: 400;
+    font-size: 26px;
+    margin-top: 9px;
+    line-height: 32px;
+    color: #E1B168;
+}
+
+.food_text button {
+    color: #FFFFFF;
+    background-color: #0b263b;
+    border: none;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    line-height: 35px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.food:hover {
+    background-color: #041e33;
+    color: white;
+    width: 450px;
+    height: 280px;
+}
+
+
+
+/* Popular Dishes */
+.Popular_dishes_menu_child {
+    width: 317.5px;
+    height: 449.63px;
+    cursor: pointer;
+}
+
+.Popular_dishes_menu_picture img {
+    width: 318px;
+    height: 307px;
+    object-fit: cover;
+    transition: border 350ms ease-out;
+    -webkit-transition: border 350ms ease-out;
+    -moz-transition: border 350ms ease-out;
+    -ms-transition: border 350ms ease-out;
+    -o-transition: border 350ms ease-out;
+}
+
+.Popular_dishes_menu_picture img:hover {
+    border: 6px solid #E1B168;
+    width: 330px;
+    height: 330px;
+}
+
+.price {
+    width: 318px;
+    height: 63px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+.price h3,
+.price p {
+    font-size: 30px;
+    line-height: 42px;
+    font-weight: 400;
+    color: #4DD0E1;
+}
+
+.Popular_dishes_menu_text p:last-child {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #B39DDB;
+    margin-top: 10px;
+}
+
+.add_btn,
+.purchase_btn,
+.calculate_btn {
+    color: #FFFFFF;
+    background-color: #0b263b;
+    border: none;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    line-height: 35px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+
+
+.add_btn:focus {
+    border: 3px solid white;
+}
