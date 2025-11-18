@@ -1,4 +1,3 @@
-First Food
 The FirstFood website is developed using React and JavaScript. You can add your favorite foods to your shopping cart from the our Menu section of the website.  
 
 
